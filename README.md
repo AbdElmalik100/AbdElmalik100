@@ -8,6 +8,7 @@ I specialize in **modern web development**. Passionate about building responsive
 
 ## 🛠️ Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,sass,bootstrap,tailwind,vue,nuxt,react,next,pinia,redux,vite,nodejs,express,django,mongodb,mysql,postgres,git,github,npm,vscode,postman,firebase,vercel,netlify" alt="Tech Stack" />
+
 ---
 
 ## 📌 Projects
